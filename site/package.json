@@ -18,7 +18,7 @@
     "@docusaurus/theme-classic": "^2.0.0-beta.18",
     "classnames": "^2.2.6",
     "common-tags": "^1.8.2",
-    "gzip-size": "^6.0.0",
+    "gzip-size": "^7.0.0",
     "js-beautify": "^1.14.3",
     "purecss": "^2.1.0",
     "react": "^17.0.2",
